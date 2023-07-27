@@ -18,9 +18,6 @@
     <string name="settings_lock_layout_summary_on">Na pantalla d\'aniciu, los iconos y los widgets nun se puen amestar, quitar o mover</string>
     <string name="settings_lock_layout_summary_off">Na pantalla d\'aniciu, los iconos y los widgets puen amestase, quitase o movese</string>
     <string name="settings_edit_widgets_error">Nun ye posible amestar widgets a la pantalla d\'aniciu</string>
-    <string name="title_show_google_app">Amosar l\'aplicación «Google»</string>
-    <string name="msg_minus_one_on_left">Cuando eslices a la derecha dende la pantalla d\'aniciu principal</string>
-    <string name="msg_minus_one_on_right">Cuando eslices a la esquierda dende la pantalla d\'aniciu principal</string>
     <string name="pref_themed_icons_title">Usar iconos temáticos nel caxón</string>
     <string name="pref_themed_icons_summary">Sigue los iconos temáticos que s\'usen na pantalla d\'aniciu</string>
     <string name="desktop_show_labels">Amosar les etiquetes de los iconos nel escritoriu</string>

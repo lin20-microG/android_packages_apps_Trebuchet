@@ -15,6 +15,4 @@
 -->
 <resources>
     <string name="settings_lock_layout_title">লেআউট লক করো</string>
-    <string name="title_show_google_app">গুগল অ্যাপ প্রদর্শিত হবে</string>
-    <string name="msg_minus_one_on_left">যখন আপনি মূল হোম স্ক্রিন থেকে ডানে সোয়াইপ করেন</string>
 </resources>

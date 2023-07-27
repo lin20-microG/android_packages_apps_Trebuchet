@@ -18,9 +18,6 @@
     <string name="settings_lock_layout_summary_on">Εικονίδια και widget δεν μπορούν να προστεθούν, να αφαιρεθούν και να μετακινηθούν στην αρχική οθόνη</string>
     <string name="settings_lock_layout_summary_off">Εικονίδια και widget μπορούν να προστεθούν, να αφαιρεθούν και να μετακινηθούν στην αρχική οθόνη</string>
     <string name="settings_edit_widgets_error">Δεν είναι δυνατή η προσθήκη widget στην αρχική οθόνη</string>
-    <string name="title_show_google_app">Εμφάνιση εφαρμογής Google</string>
-    <string name="msg_minus_one_on_left">Όταν σύρετε προς τα δεξιά από την κύρια αρχική οθόνη</string>
-    <string name="msg_minus_one_on_right">Όταν σύρετε προς τα αριστερά από την κύρια αρχική οθόνη</string>
     <string name="pref_themed_icons_title">Χρήση θεματικών εικονιδίων στο συρτάρι εφαρμογών</string>
     <string name="pref_themed_icons_summary">Ακολουθήστε τα θεματικά εικονίδια που χρησιμοποιούνται στην αρχική οθόνη</string>
     <string name="desktop_show_labels">Εμφάνιση ετικετών εικονιδίων στην επιφάνεια</string>

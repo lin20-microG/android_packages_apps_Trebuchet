@@ -18,9 +18,6 @@
     <string name="settings_lock_layout_summary_on">Táknmyndum og viðmótshlutum er ekki hægt að bæta við, færa eða fjarlægja á heimaskjá</string>
     <string name="settings_lock_layout_summary_off">Táknmyndum og viðmótshlutum er hægt að bæta við, færa eða fjarlægja á heimaskjá</string>
     <string name="settings_edit_widgets_error">Það er ekki hægt að bæta viðmótshlutum á heimaskjáinn</string>
-    <string name="title_show_google_app">Birta Google-forrit</string>
-    <string name="msg_minus_one_on_left">Þegar þú strýkur til hægri af aðal-heimaskjánum</string>
-    <string name="msg_minus_one_on_right">Þegar þú strýkur til vinstri af aðal-heimaskjánum</string>
     <string name="desktop_show_labels">Birta skýringar táknmynda á skjáborði</string>
     <string name="drawer_show_labels">Birta skýringar táknmynda í leiðsagnarsleða</string>
     <string name="trust_apps_manager_name">Falin og varin forrit</string>
