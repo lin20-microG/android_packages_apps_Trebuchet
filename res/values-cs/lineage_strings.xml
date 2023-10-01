@@ -18,6 +18,8 @@
     <string name="settings_lock_layout_summary_on">Ikony a widgety nelze přidat, odebrat a přesunout na domovské obrazovce</string>
     <string name="settings_lock_layout_summary_off">Ikony a widgety lze přidat, odebrat a přesunout na domovské obrazovce</string>
     <string name="settings_edit_widgets_error">Nelze přidat widgety na domovskou obrazovku</string>
+    <string name="pref_themed_icons_title">Použít ikony motivů v menu aplikací</string>
+    <string name="pref_themed_icons_summary">Následovat motiv ikon používaných na domovské obrazovce</string>
     <string name="desktop_show_labels">Zobrazit popisky ikon na ploše</string>
     <string name="drawer_show_labels">Zobrazit popisky ikon v menu aplikací</string>
     <string name="trust_apps_manager_name">Skryté &amp; Chráněné aplikace</string>
@@ -28,4 +30,6 @@
     <string name="trust_apps_help">Nápověda</string>
     <string name="trust_apps_info_hidden">Skryté aplikace a jejich widgety se nezobrazí v seznamu aplikací</string>
     <string name="trust_apps_info_protected">Chráněné aplikace vyžadují pro spuštění ze spouštěče ověření</string>
+    <string name="pref_suggestions_title">Doporučení</string>
+    <string name="pref_suggestions_summary">Pro seznam aplikací a doporučení na domovské obrazovce</string>
 </resources>
