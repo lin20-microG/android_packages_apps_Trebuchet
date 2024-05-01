@@ -18,6 +18,7 @@
     <string name="settings_lock_layout_summary_on">Ni ellir ychwanegu, tynnu na symud eiconau a theclynnau ar y sgrin gartref</string>
     <string name="settings_lock_layout_summary_off">Gellir ychwanegu, tynnu a symud eiconau a theclynnau ar y sgrin gartref</string>
     <string name="settings_edit_widgets_error">Nid yw\'n bosib ychwanegu teclynnau i\'r sgrin gartref</string>
+    <string name="pref_themed_icons_title">Defnyddio eiconau â thema yn y drôr</string>
     <string name="pref_themed_icons_summary">Dilyn eiconau â thema a ddefnyddiwyd ar y sgrin gartref</string>
     <string name="desktop_show_labels">Dangos labeli eiconau ar y sgrin gartref</string>
     <string name="drawer_show_labels">Dangos labeli eiconau yn y drôr</string>

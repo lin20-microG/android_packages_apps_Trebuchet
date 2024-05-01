@@ -15,13 +15,13 @@
 -->
 <resources>
     <string name="settings_lock_layout_title">Kilid düzülüşü</string>
-    <string name="settings_lock_layout_summary_on">Nişanlar və vidgetlər əsas ekranda əlavə edilə, çıxarıla və ya köçürülə bilməz</string>
-    <string name="settings_lock_layout_summary_off">Nişanlar və vidgetlər əsas ekranda əlavə edilə, çıxarıla və ya köçürülə bilər</string>
-    <string name="settings_edit_widgets_error">Əsas ekrana vidget əlavə etmək mümkün deyil</string>
-    <string name="pref_themed_icons_title">Siyirmədə temalı nişanları istifadə et</string>
-    <string name="pref_themed_icons_summary">Əsas ekranda istifadə edilən temalı nişanları izlə</string>
-    <string name="desktop_show_labels">Masaüstündə nişan etiketlərini göstər</string>
-    <string name="drawer_show_labels">Siyirmədə nişan etiketlərini göstər</string>
+    <string name="settings_lock_layout_summary_on">İkonlar və vicetlər əsas ekranda əlavə edilə, çıxarıla və ya daşına bilməz</string>
+    <string name="settings_lock_layout_summary_off">İkonlar və vicetlər əsas ekranda əlavə edilə, çıxarıla və ya daşına bilər</string>
+    <string name="settings_edit_widgets_error">Əsas ekrana vicet əlavə etmək mümkün deyil</string>
+    <string name="pref_themed_icons_title">Siyirmədə temalı ikonları istifadə et</string>
+    <string name="pref_themed_icons_summary">Əsas ekranda istifadə edilən temalı ikonları izlə</string>
+    <string name="desktop_show_labels">Masaüstündə ikon etiketlərini göstər</string>
+    <string name="drawer_show_labels">Siyirmədə ikon etiketlərini göstər</string>
     <string name="trust_apps_manager_name">Gizli və Qorunan tətbiqlər</string>
     <string name="trust_apps_auth_manager">Gizli və qorunan tətbiqləri idarə etmək üçün kilidi açın</string>
     <string name="trust_apps_auth_open_app">%1$s açmaq üçün kimliyi doğrula</string>
