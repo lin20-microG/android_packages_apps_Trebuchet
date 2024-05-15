@@ -28,4 +28,6 @@
     <string name="trust_apps_help">Súgó</string>
     <string name="trust_apps_info_hidden">A rejtett alkalmazások és moduljaik az alkalmazásfiókban sem láthatóak</string>
     <string name="trust_apps_info_protected">Egy védett alkalmazás megnyitása a launcherből hitelesítést igényel</string>
+    <string name="pref_suggestions_title">Javaslatok</string>
+    <string name="pref_suggestions_summary">Javaslatok a Kezdőképernyőhöz és az Alkalmazásfiókhoz</string>
 </resources>
