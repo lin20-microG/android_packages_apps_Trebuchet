@@ -18,9 +18,6 @@
     <string name="settings_lock_layout_summary_on">Nol è pussibil zontâ, gjavâ e spostâ iconis e widgets su la schermade di inizi</string>
     <string name="settings_lock_layout_summary_off">Al è pussibil zontâ, gjavâ e spostâ iconis e widgets su la schermade di inizi</string>
     <string name="settings_edit_widgets_error">Nol è pussibil zontâ widgets ae schermade di inizi</string>
-    <string name="title_show_google_app">Mostre la aplicazion Google</string>
-    <string name="msg_minus_one_on_left">Cuant che, de schermade di inizi, tu scoris viers diestre</string>
-    <string name="msg_minus_one_on_right">Cuant che, de schermade di inizi, tu scoris viers çampe</string>
     <string name="pref_themed_icons_title">Tal scansel, dopre lis iconis a teme</string>
     <string name="pref_themed_icons_summary">Va daûr dal stîl des iconis doprât te schermade di inizi</string>
     <string name="desktop_show_labels">Mostre lis etichetis des iconis te schermade di inizi</string>

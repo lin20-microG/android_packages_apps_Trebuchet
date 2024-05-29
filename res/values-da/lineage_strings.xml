@@ -18,7 +18,6 @@
     <string name="settings_lock_layout_summary_on">Ikoner og widgets kan ikke tilføjes, fjernes og flyttes på hjemmeskærmen</string>
     <string name="settings_lock_layout_summary_off">Ikoner og widgets kan tilføjes, fjernes og flyttes på hjemmeskærmen</string>
     <string name="settings_edit_widgets_error">Det er ikke muligt at tilføje widgets til hjemmeskærmen</string>
-    <string name="title_show_google_app">Vis Google app</string>
     <string name="pref_themed_icons_title">Brug tematiserede ikoner i skuffen</string>
     <string name="pref_themed_icons_summary">Følg temaikoner, der bruges på startskærmen</string>
     <string name="desktop_show_labels">Vis ikontekst på startskærmen</string>

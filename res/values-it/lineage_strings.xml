@@ -18,9 +18,6 @@
     <string name="settings_lock_layout_summary_on">Non è possibile aggiungere, rimuovere e spostare icone e widget nella schermata home</string>
     <string name="settings_lock_layout_summary_off">È possibile aggiungere, rimuovere e spostare icone e widget nella schermata home</string>
     <string name="settings_edit_widgets_error">Non è possibile aggiungere widget alla schermata home</string>
-    <string name="title_show_google_app">Mostra l\'app Google</string>
-    <string name="msg_minus_one_on_left">Quando scorri verso destra dalla schermata home</string>
-    <string name="msg_minus_one_on_right">Quando scorri verso sinistra dalla schermata home</string>
     <string name="pref_themed_icons_title">Usa le icone a tema nel drawer</string>
     <string name="pref_themed_icons_summary">Segui lo stile delle icone utilizzato nella schermata home</string>
     <string name="desktop_show_labels">Mostra nomi icone nella schermata home</string>
